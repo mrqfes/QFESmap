@@ -3,8 +3,8 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "",
-    "link": "",
+    "file": "images/QFES.png",
+    "link": "images/QFES.png",
     "text": "MR"
   },
   "text": {
